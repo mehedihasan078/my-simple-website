@@ -2,3 +2,7 @@ div{
     background-color: tomato;
     padding: 20px;
 }
+.image img{
+width: 250px;
+height: 250px;
+}
